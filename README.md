@@ -31,6 +31,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Conlin Durbin](https://wuz.fyi)  
 [Cole Emeruche](https://coleruche.com/works/)  
 [Gianluca Fiore](http://gianlucafiore.it)  
+[Johnson Ogwuru](https://johnsonogwuru.tech/)
 [Joseph Friedman](http://DecentGradient.com)  
 [Farai Gandiya](http://fgandiya.me)  
 [Sree Godavarthi](http://sreegodavarthi.github.io)
